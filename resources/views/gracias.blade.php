@@ -1,5 +1,5 @@
 <x-layouts.web>
-    <div class="row">
+    <div class="container-fluid">
         <div class="overflow-hidden text-center" style="background-color:#000;">
             <img src="{{ asset('images/logo.png') }}" alt="Logo">
         </div>
