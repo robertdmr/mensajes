@@ -1,0 +1,16 @@
+html,body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.form-control{
+    font-weight: 600;
+}
+.dropdown-item{
+    font-weight: 600;
+}
+.form-select{
+    font-weight: 300;
+}
+.hidden{
+    display: none;
+}
